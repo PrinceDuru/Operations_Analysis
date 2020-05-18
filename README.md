@@ -20,11 +20,11 @@ Insights into the most popular routes
 Overage - charge $4 for every 30 min you are over 
 
 Types of overage: 
-Type 1  0-30 minutes
-Type 2  31-60 minutes
-Type 3  61-90 minutes
-Type 4  91-120 minutes
-Type 5 120+ minutes
+* Type 1  0-30 minutes
+* Type 2  31-60 minutes
+* Type 3  61-90 minutes
+* Type 4  91-120 minutes
+* Type 5 120+ minutes
     
     
 ### Total overage trips
