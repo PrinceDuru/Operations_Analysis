@@ -8,11 +8,11 @@ Toronto Bike Share (TBS) wants to revamp their product offering. Before they tak
 ## Some Things They Want To Know:
 
 ### Utilization
-Most popular days of the week by month, quarter.
-Average ride time per day of the week, month
-Average daily trips per month
-Popular start and end stations
-Insights into the most popular routes
+* Most popular days of the week by month, quarter.
+* Average ride time per day of the week, month
+* Average daily trips per month
+* Popular start and end stations
+* Insights into the most popular routes
 
 ### Monetization
 Overage - charge $4 for every 30 min you are over 
@@ -26,12 +26,12 @@ Types of overage:
     
     
 ### Total overage trips
-Money made 
-Show by type and member/non-member
+* Money made 
+* Show by type and member/non-member
 
 ### Other expectations:
-Complete Project Plan at Outset of Project 
-Provide overview of how close you were to project plan in presentation
-Create and Complete QC Plan 
-Provide overview of the accuracy of your work
+* Complete Project Plan at Outset of Project 
+* Provide overview of how close you were to project plan in presentation
+* Create and Complete QC Plan 
+* Provide overview of the accuracy of your work
 ********************************************************************************
