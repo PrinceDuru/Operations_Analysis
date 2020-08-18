@@ -1,4 +1,4 @@
-# unit1_project
+# Operations_Analysis_project
 Toronto Bike Share data analysis
 
 ## Background
@@ -12,8 +12,6 @@ Most popular days of the week by month, quarter.
 Average ride time per day of the week, month
 Average daily trips per month
 Popular start and end stations
-
-### Bonus
 Insights into the most popular routes
 
 ### Monetization
@@ -30,9 +28,6 @@ Types of overage:
 ### Total overage trips
 Money made 
 Show by type and member/non-member
-
-
-2 viz minimum, rest tabular
 
 ### Other expectations:
 Complete Project Plan at Outset of Project 
